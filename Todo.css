@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    background-color: #121212;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.container{
+    width: 350px;
+    text-align: center;
+}
+
+input{
+    width: 70%;
+    padding: 10px;
+}
+
+button{
+    padding: 10px;
+    cursor: pointer;
+}
+
+li{
+    list-style: none;
+    margin-top: 10px;
+    background: #1f1f1f;
+    padding: 10px;
+}
